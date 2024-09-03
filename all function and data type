@@ -1,4 +1,14 @@
 #ICT SBA
+Functions:
+Read data
+Write data into a new text file and show data
+Marking
+Calculate average, maximum, minimum and standard deviation
+Calculate percentage of response in each option and correctness in each question
+Find the questions with low correct percentage
+Calculate percentage of correct response for each student
+
+Data type
 Passing percentage of all students (float)
 Average, maximum, minimum (integer)
 standard deviation of the marks​(float)
@@ -11,11 +21,4 @@ Mark of each student (integer array)
 Percentage of correct question of each student (float array)
 Answer key (String)
  
-Functions:
-Read data
-Write data into a new text file and show data
-Marking
-Calculate average, maximum, minimum and standard deviation
-Calculate percentage of response in each option and correctness in each question
-Find the questions with low correct percentage
-Calculate percentage of correct response for each student
+
