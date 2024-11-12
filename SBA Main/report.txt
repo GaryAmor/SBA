@@ -1,0 +1,43 @@
+MCMAS Report
+============6D08SBA=========
+
+Mark List:
+Student1: 9
+Student2: 8
+Student3: 10
+Student4: 8
+Student5: 9
+
+Passing Percentage: 0.00%
+Average Mark: 8.80
+Maximum Mark: 10
+Minimum Mark: 8
+Standard Deviation: 0.84
+
+Question Correctness:
+Question 1: 60.00%
+Question 2: 0.00%
+Question 3: 100.00%
+Question 4: 0.00%
+Question 5: 0.00%
+Question 6: 100.00%
+Question 7: 100.00%
+Question 8: 100.00%
+Question 9: 0.00%
+Question 10: 0.00%
+Question 11: 100.00%
+Question 12: 0.00%
+Question 13: 0.00%
+Question 14: 0.00%
+Question 15: 0.00%
+Question 16: 100.00%
+Question 17: 100.00%
+Question 18: 100.00%
+Question 19: 0.00%
+Question 20: 20.00%
+
+Questions with Low Correctness (<50%):
+2, 4, 5, 9, 10, 12, 13, 14, 15, 19, 20, 
+
+Lowest Mark Student: Student2 with mark 8
+Highest Mark Student: Student3 with mark 10
